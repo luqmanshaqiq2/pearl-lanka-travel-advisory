@@ -60,7 +60,7 @@ Before real deployment, replace local/dev secrets with your own values:
 - PostgreSQL connection string
 - JWT key/issuer/audience
 - Mapbox access token
-- OpenWeather API key
+- OpenWeather API key(have an old key before subscription was introduced lol)
 
 ---
 
@@ -68,8 +68,8 @@ That is it. Run backend + frontend, then open the app and test by searching a lo
 
 ## Screenshots
 
-<img width="1350" height="604" alt="image" src="https://github.com/user-attachments/assets/6c9501fd-f1c1-4255-a090-32b4fd565ef5" />
 
-<img width="967" height="463" alt="image" src="https://github.com/user-attachments/assets/9fcbb3b1-a809-42e0-9fd8-4be7b9cd543d" />
+<img width="1350" height="604" alt="travel-advisory1" src="https://github.com/user-attachments/assets/0181b034-f38f-4dc8-9e44-bd5f31010a6c" />
+<img width="967" height="463" alt="travel-advisory2" src="https://github.com/user-attachments/assets/cfd25bde-ea53-4b05-b249-e3462755063c" />
 
 
